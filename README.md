@@ -1,0 +1,3 @@
+# javaTeste
+
+## exercicio 1
